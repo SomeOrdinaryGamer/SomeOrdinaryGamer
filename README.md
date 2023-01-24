@@ -2,6 +2,8 @@
         
 <h3 align="center"><b> Hello, I'm Jonathan! Welcome to my profile.</b></h3>
 
+<p align="center"> I currently work as a Desktop App Developer and Graphics Designer but love to explore other avenues on the side. I am proficient in Java but have experience in other languages such as C/C#, Python, HTML, CSS, JS and many more. Over the years, I've gotten the opportunity to work on many different projects from AI models to Mobile App Development and Java based Game Development. I look forward to not only growning my existing skills but also learning new ones.</p>
+
 <p align="center"> I will continue to add my projects as they come along, so stay tuned. </p>
 
 <p align="center"> Feel free to connect with me. </p>

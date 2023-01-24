@@ -2,6 +2,10 @@
         
 <h3 align="center"><b> Hello, I'm Jonathan! Welcome to my profile.</b></h3>
 
+<p align="center"> I will continue to add my projects as they come along, so stay tuned. </p>
+
+<p align="center"> Feel free to connect with me. </p>
+
 <h4 align="left">Connect with me:</h3>
 
 <p align="left">
